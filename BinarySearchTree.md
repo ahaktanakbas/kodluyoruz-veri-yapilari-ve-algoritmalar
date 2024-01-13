@@ -7,4 +7,4 @@
 
 Root=6
 
-![Binary Search Tree](img/Binary%20Search%20Tree.png)
+![Binary Search Tree](Binary%20Search%20Tree.png)
